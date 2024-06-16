@@ -1,6 +1,7 @@
 # Executive Cost Presentation with AWS
 
-![Executive Presentation](https://i.imgur.com/G1XhWy9.png)
+![Executive Presentation](https://i.imgur.com/RWpv0Wq.jpeg)
+![Infrastructure](https://i.imgur.com/uLA0hcG.png)
 
 ## Project Description
 In this AWS project, we will need to make an executive presentation to managers and stakeholders to give an idea of the prospective cost of migrating to the cloud from an on-premises data center environment using AWS Pricing Calculator.
